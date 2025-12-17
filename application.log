@@ -1,0 +1,8 @@
+2025-12-17 20:31:25 INFO  filemanager.FileManagerApp - Запуск файлового менеджера
+2025-12-17 20:32:34 INFO  filemanager.FileManagerApp - Открыта директория: C:\Users\Егор\IdeaProjects\FileManagerKU
+2025-12-17 20:33:51 INFO  filemanager.FileManagerApp - Запуск файлового менеджера
+2025-12-17 20:34:04 INFO  filemanager.FileManagerApp - Открыта директория: C:\Users\Егор\IdeaProjects\FileManagerKU
+2025-12-17 20:34:10 INFO  filemanager.FileManagerApp - Переход в директорию: C:\Users\Егор\IdeaProjects\FileManagerKU\test1
+2025-12-17 20:34:24 INFO  filemanager.FileManagerApp - Файл скопирован: 1.txt
+2025-12-17 20:34:28 INFO  filemanager.FileManagerApp - Возврат назад: C:\Users\Егор\IdeaProjects\FileManagerKU
+2025-12-17 20:34:29 INFO  filemanager.FileManagerApp - Переход в директорию: C:\Users\Егор\IdeaProjects\FileManagerKU\test2
