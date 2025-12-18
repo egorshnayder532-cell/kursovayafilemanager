@@ -1,9 +1,5 @@
 # File Manager KU
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Gradle](https://img.shields.io/badge/Gradle-8.5-green)
-![Swing](https://img.shields.io/badge/GUI-Swing-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Файловый менеджер с графическим интерфейсом, разработанный в рамках курсовой работы по дисциплине "Разработка защищенных сетевых приложений".
 
